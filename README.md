@@ -1,1 +1,3 @@
-"# Face-Detection" 
+Face Detection Model 
+
+This is a face detection model. A machine learning model that is trained on custom data from a few images you take from your webcam, and then label yourself using labelme (a python library that helps label and add bounding boxes to images.) You can augment the few photos you take and vary them up alot (horizontal/vertical flips, cropping, gamma, brightness, rgb etc.) using the DataAugmentation.py file. This file automatically takes care of labeling too, along with any bounding boxes. This face detection model was built with guidance from a tutorial made by
